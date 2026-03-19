@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 24px;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    text-align: left;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 48px;
+}
+
+h2 {
+    text-align: left;
+    margin-top: -1%;
+    margin-left: 5%;
+    margin-bottom: -1%;
+    font-size: 24px;
+    color: gray;
+}
+
+.video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+
+.videotitle {
+    color: black;
+    margin-top: 1%;
+    margin-bottom: -4%;
+}
+
+.stats {
+    margin-bottom: -5%;
+    color: gray;
+}
+
+iframe {
+    border-radius: 3%;
+}
+
+p {
+    text-align: left;
+    width: 95%;
+}
+
+div {
+    margin-top: 3%;
+    width: 22.5%;
+    vertical-align: top;
+    display: inline-block;
+}
